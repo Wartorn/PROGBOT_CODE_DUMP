@@ -1,0 +1,171 @@
+Type	Result	Sort	Definition
+ClassHeader	the kids	Core	
+ClassHeader	the NetBattlers	Extended	
+ClassHeader	the NetAgents	NetAgents	
+ClassHeader	the NetNavis	Navis	
+			
+			
+AdvHeader	at school	Core	Event
+AdvHeader	on a field trip to	Core	Location
+AdvHeader	on a weekend trip to	Core	Location
+AdvHeader	travelling by	Core	Transport
+AdvHeader	DEBUG_ADVHEADER	Extended	Event
+			
+			
+			
+AdvHeader	in training	NetAgents	Event
+AdvHeader	undercover	NetAgents	Event
+AdvHeader	on a secret mission to	NetAgents	Location
+			
+HeaderResult	on exam day.	Core	Event
+HeaderResult	for the talent show.	Core	Event
+HeaderResult	in an afterschool club.	Core	Event
+HeaderResult	with a new teacher.	Core	Event
+HeaderResult	studying Viruses.	Core	Event
+HeaderResult	with a new student.	Core	Event
+			
+HeaderResult	at show-and-tell.	Extended	Event
+HeaderResult	in detention.	Extended	Event
+HeaderResult	on the playground.	Extended	Event
+			
+			
+			
+HeaderResult	a museum.	Core	Location
+HeaderResult	a factory.	Core	Location
+HeaderResult	the aquarium.	Core	Location
+HeaderResult	the zoo.	Core	Location
+HeaderResult	the observatory.	Core	Location
+HeaderResult	a farm.	Core	Location
+HeaderResult	the woods.	Core	Location
+HeaderResult	a radio station.	Core	Location
+HeaderResult	a laboratory.	Core	Location
+HeaderResult	the power plant.	Core	Location
+HeaderResult	a canyon.	Core	Location
+HeaderResult	a mountain.	Core	Location
+HeaderResult	the beach.	Core	Location
+HeaderResult	the big city.	Core	Location
+HeaderResult	the theater.	Core	Location
+HeaderResult	a haunted house.	Core	Location
+HeaderResult	the circus.	Core	Location
+HeaderResult	a theme park.	Core	Location
+HeaderResult	a ski resort.	Core	Location
+HeaderResult	an ice rink.	Core	Location
+HeaderResult	a sports arena.	Core	Location
+HeaderResult	a cinema.	Core	Location
+HeaderResult	an arcade.	Core	Location
+HeaderResult	a music concert.	Core	Location
+HeaderResult	bus.	Core	Transport
+HeaderResult	boat.	Core	Transport
+HeaderResult	plane.	Core	Transport
+HeaderResult	subway.	Core	Transport
+HeaderResult	taxi.	Core	Transport
+HeaderResult	monorail.	Core	Transport
+			
+			
+ConflictType	a social conflict.	Extended	Social
+ConflictType	a battle conflict.	Extended	Battle
+ConflictType	a puzzle conflict.	Extended	Puzzle
+			
+			
+ConflictHeader	an evildoer is there to	Core	
+			
+ConflictResult	steal something secret.	Core	
+ConflictResult	destroy something valuable.	Core	
+ConflictResult	get revenge on someone.	Core	
+ConflictResult	take people hostage.	Core	
+ConflictResult	steal something famous.	Core	
+ConflictResult	destroy something beloved.	Core
+ConflictResult	Wartorn's an idiot that didn't extend the table to test this properly	Extended
+			
+VulnHeader	Their vulnerability is	Core	
+			
+VulnResult	their overconfidence.	Core	
+VulnResult	their incompetent henchmen.	Core	
+VulnResult	something they left behind.	Core	
+VulnResult	something the kids overhear.	Core	
+VulnResult	their paranoia.	Core	
+VulnResult	something they underestimated.	Core	
+			
+			
+NPCFirstName	Vi	Core	
+NPCFirstName	Alma	Core	
+NPCFirstName	Bit	Core	
+NPCFirstName	Byte	Core	
+NPCFirstName	Sofia	Core	
+NPCFirstName	Ada	Core	
+NPCFirstName	Olive	Core	
+NPCFirstName	Vim	Core	
+NPCFirstName	Raj	Core	
+NPCFirstName	Haskell	Core	
+NPCFirstName	Dorothy	Core	
+NPCFirstName	Penny	Core	
+NPCFirstName	Miki	Core	
+NPCFirstName	Lou	Core	
+NPCFirstName	Anne	Core	
+NPCFirstName	Ramesh	Core	
+NPCFirstName	Tux	Core	
+NPCFirstName	Rico	Core	
+NPCFirstName	Akari	Core	
+NPCFirstName	Dev	Core	
+NPCFirstName	Winnie	Core	
+NPCFirstName	Alice	Core	
+NPCFirstName	Afua	Core	
+NPCFirstName	Katherine	Core	
+NPCFirstName	Rosa	Core	
+NPCFirstName	Pepper	Core	
+NPCFirstName	Sparky	Core	
+NPCFirstName	Masa	Core	
+NPCFirstName	Darwin	Core	
+NPCFirstName	Amma	Core	
+NPCFirstName	Dev	Core	
+NPCFirstName	Archie	Core	
+NPCFirstName	Bee	Core	
+NPCFirstName	Kim	Core	
+NPCFirstName	Lisa	Core	
+NPCFirstName	George	Core
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+NPCFirstName	Wartorn	Extended
+			
+Personality	an enthusiastic	Core	
+Personality	a dopey	Core	
+Personality	a skeptic	Core	
+Personality	a daydreamy	Core	
+Personality	a nervous	Core	
+Personality	a know-it-all	Core	
+			
+Occupation	student	Core	
+Occupation	Official	Core	
+Occupation	teacher	Core	
+Occupation	businessperson	Core	
+Occupation	stay-at-home	Core	
+Occupation	artist	Core	
+			
+Feature	their hair	Core	
+Feature	their face	Core	
+Feature	their clothes	Core	
+Feature	their voice	Core	
+Feature	their physical mannerisms	Core	
+Feature	an item they have	Core	
+			
+NPCLastName	DEBUG_LASTNAME	Extended	
+NPCLastName	DEBUG_LASTNAME2	Extended	
+NPCLastName	DEBUG_LASTNAME3	Extended	
+			
+			
+NaviHostility	friendliness	Extended	
+NaviHostility	hostility	Extended	
+NaviHostility	deception	Extended	
+			
+Atmosphere	DEBUG_ATMOSPHERE	Extended	
+Atmosphere	DEBUG_ATMOSPHERE2	Extended	
+Atmosphere	DEBUG_ATMOSPHERE3	Extended	
+			
+ConflictShort			

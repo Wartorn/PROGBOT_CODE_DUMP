@@ -46,3 +46,4 @@ cheer	cheer	prefix	1
 jeer	jeer	prefix	1
 virusr	virusr	prefix	1
 virusrandom	virusr	prefix	1
+adventure	adventure	prefix	1

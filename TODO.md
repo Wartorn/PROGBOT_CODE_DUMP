@@ -22,3 +22,5 @@
 - Add additional Indie rules
 - Add NaviChip creation rules
 - Shop ideas for new GMs?
+- Music playback from Youtube
+- Notion support (music picker?)

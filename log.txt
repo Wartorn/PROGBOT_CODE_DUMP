@@ -2431,3 +2431,5 @@
 2020-12-16 17:06:46	668525535705694208	668525535705694211	239231235677880321	>ncp soulunison	
 2020-12-16 17:06:46	668525535705694208	668525535705694211	746481285383323709	Found as an alternative name for **SoulUnion**!	
 2020-12-16 17:06:46	668525535705694208	668525535705694211	746481285383323709		
+2021-01-08 08:35:10	606329822049730560	757872112898932749	201534512964960257	>adventure extended	
+2021-01-08 08:35:11	606329822049730560	757872112898932749	784946632475017237	The adventure starts with the NetAgents on a secret mission to the power plant. But an evildoer is there to get revenge on someone. Their vulnerability is something they underestimated.\nThe tone of the adventure is DEBUG_ATMOSPHERE2, and the primary conflict is a battle conflict. **Amma DEBUG_LASTNAME2** is an enthusiastic teacher, notable for their hair.\nNext, the NetAgents meet a skeptic navi with the element of Strings that greets them with deception.	
