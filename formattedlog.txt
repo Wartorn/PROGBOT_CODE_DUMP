@@ -1,2 +1,1 @@
-2021-01-08 08:35:10	thurstday nights	#ramblings	Wartorn#0698	>adventure extended	
-2021-01-08 08:35:11	thurstday nights	#ramblings	ProgTest#9523	The adventure starts with the NetAgents on a secret mission to the power plant. But an evildoer is there to get revenge on someone. Their vulnerability is something they underestimated.\nThe tone of the adventure is DEBUG_ATMOSPHERE2, and the primary conflict is a battle conflict. **Amma DEBUG_LASTNAME2** is an enthusiastic teacher, notable for their hair.\nNext, the NetAgents meet a skeptic navi with the element of Strings that greets them with deception.	
+
